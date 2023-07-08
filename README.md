@@ -11,8 +11,10 @@
 
 ## Credits
     Thank you to UC Berkeley Extension Full Stack course, partnered with EDX, for the starte code.
-## Screenshot / Link to Application
+## Screenshot
 
 ![Screenshot of final product!](./Assets/images/finalProduct.png)
+
+## Link to Application
 
 [Visit my deployed application!](https://lopez-jordan.github.io/work-day-scheduler/)
