@@ -15,4 +15,4 @@
 
 ![Screenshot of final product!](./Assets/images/finalProduct.png)
 
-[Visit my deployed application!](https://www.openai.com/)
+[Visit my deployed application!](https://lopez-jordan.github.io/work-day-scheduler/)
