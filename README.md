@@ -11,8 +11,8 @@
 
 ## Credits
     Thank you to UC Berkeley Extension Full Stack course, partnered with EDX, for the starte code.
-## Other
+## Screenshot / Link to Application
 
 ![Screenshot of final product!](./Assets/images/finalProduct.png)
 
-[Visit my deployed application](https://www.openai.com/)
+[Visit my deployed application!](https://www.openai.com/)
